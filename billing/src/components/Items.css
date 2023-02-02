@@ -1,0 +1,28 @@
+
+
+/* .inputquantity .AddIcon, .RemoveIcon {
+    width: 25px;
+  }
+  
+  .inputquantity .TextField {
+    width: 70px;
+  } */
+
+  .inputquantity{
+  
+    display: flex;
+   justify-content: space-around;
+    align-items: center;
+         
+ }
+
+ .tdata{
+    width: 300px;
+ }
+
+ .items{
+    height: 58vh;
+    width: 100%;
+    overflow-y: auto;
+    display: block;
+ }
