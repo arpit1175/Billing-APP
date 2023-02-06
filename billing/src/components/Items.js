@@ -140,7 +140,6 @@ totalprice();
                                         <td>{e.price}</td>
                                         <td className='tdata'>
                                             <div className='inputquantity'>
-                                                {/* <TextField id={e.id} label="Quantity" variant="standard" size="normal" type="number" inputProps={{ min: 0 }} onChange={(event) => updatequantity(e.id, event.target.value)} /> */}
                                                 <Input id={e.id} label="Quantity" inputProps={{ min: 0 }}  onChange={(event) => checkinput(e.id, event.target.value)}></Input>
                                             </div>
                                         </td>
