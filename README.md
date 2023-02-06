@@ -1,6 +1,5 @@
 # Billing-app
-
-https://user-images.githubusercontent.com/107264496/216514830-9743781f-e413-4890-b5c9-df51a2324676.mp4
+https://user-images.githubusercontent.com/107264496/216992135-9ce815a7-3e82-4720-9dcf-d6b2d44aa690.mp4
 
 # Key Features
 1. This is an Billing App.
